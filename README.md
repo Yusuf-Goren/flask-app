@@ -24,6 +24,7 @@ example body
 ]
 }
 `
+
 /get-student/<student_id>
 
 /get-students
