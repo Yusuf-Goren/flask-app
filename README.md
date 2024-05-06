@@ -1,13 +1,13 @@
 ## flask backend with postgres
 
 to Run application open docker and then open a terminal in porject folder type in
-docker compose up --build flask_app
+`docker compose up --build flask_app`
 
 ## avaliable routes
 
 /create
 example body
-
+`
 {
 "surname":"474",
 "name":" 8888",
@@ -23,7 +23,7 @@ example body
 }
 ]
 }
-
+`
 /get-student/<student_id>
 
 /get-students
