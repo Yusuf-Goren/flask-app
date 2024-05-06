@@ -1,0 +1,6 @@
+flask
+psycopg2-binary
+Flask-SQLAlchemy
+SQLAlchemy==2.0.22
+WTForms==3.1.0
+Werkzeug==3.0.1
